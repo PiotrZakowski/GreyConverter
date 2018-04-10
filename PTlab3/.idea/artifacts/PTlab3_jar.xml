@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="PTlab3:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/PTlab3_jar</output-path>
+    <root id="archive" name="PTlab3.jar">
+      <element id="module-output" name="PTlab3" />
+    </root>
+  </artifact>
+</component>
